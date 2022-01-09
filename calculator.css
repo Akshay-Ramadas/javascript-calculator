@@ -1,0 +1,309 @@
+.calculator{
+height: 500px;
+width: 320px;
+background-color: rgb(32, 32, 36);
+margin-top: 80px;
+margin-left: 500px;
+border-radius: 5px;
+
+}
+#BODY{
+    background-color: rgb(240, 137, 171);
+}
+.label{
+    height: 100px;
+    width: 290px;
+
+    padding-top: 25px;
+padding-left: 16px;
+
+}
+#screen{
+    height: 40px;
+    width: 290px;
+    background-color: rgb(63, 56, 56);
+    color: #ffff;
+    border-radius: 20px;
+    border-color: cornsilk;
+    font-size: 20px;
+}
+.nbuttons{
+    padding-left: 5px;
+    padding-top: 10px;
+   
+
+}
+.n7buttons{
+    height: 50px;
+    width: 50px;
+     background:rgb(104, 101, 96);
+     border-radius: 25px;
+     border-color: darkgoldenrod;
+     cursor: pointer;
+     font-weight: bold;
+     margin-left: 10px;
+}
+.n7buttons:hover{
+    background-color: rgb(83, 78, 78);
+}
+.n8buttons{
+    height: 50px;
+    width: 50px;
+     background: rgb(104, 101, 96);
+     border-radius: 25px;
+     border-color: darkgoldenrod;
+     margin-left:15px;
+     appearance: pushbutton;
+     cursor: pointer;
+     font-weight: bold;
+     
+     
+
+}
+.n8buttons:hover{
+    background-color: rgb(83, 78, 78);
+
+
+
+}
+.n9buttons{
+    height: 50px;
+    width: 50px;
+     background: rgb(104, 101, 96);
+     border-radius: 25px;
+     border-color: darkgoldenrod;
+     margin-left:15px;
+     appearance: pushbutton;
+     cursor: pointer;
+    font-weight: bold;}
+.n9buttons:hover{
+        background-color: rgb(83, 78, 78);}
+.addbtn{
+            height: 50px;
+            width: 50px;
+             background: rgb(241, 155, 5);
+             border-radius: 25px;
+             border-color: darkgoldenrod;
+             margin-left:35px;
+             appearance: pushbutton;
+             cursor: pointer;
+            font-weight: bold;
+        font-size: 20px;}
+.addbtn:hover{
+                background-color:rgb(226, 150, 17); }
+
+
+.fourbtn{
+                    height: 50px;
+                    width: 50px;
+                     background: rgb(104, 101, 96);
+                     border-radius: 25px;
+                     border-color: darkgoldenrod;
+                     margin-left: 10px;
+                     appearance: pushbutton;
+                     cursor: pointer;
+                    font-weight: bold;}
+                .fourbtn:hover{
+                        background-color: rgb(83, 78, 78);}
+                       
+
+                        .fivebtn{
+                            height: 50px;
+                            width: 50px;
+                             background: rgb(104, 101, 96);
+                             border-radius: 25px;
+                             border-color: darkgoldenrod;
+                             margin-left:15px;
+                             appearance: pushbutton;
+                             cursor: pointer;
+                            font-weight: bold;}
+                        .fivebtn:hover{
+                                background-color: rgb(83, 78, 78);}
+
+
+
+
+
+                                .sixbtn{
+                                    height: 50px;
+                                    width: 50px;
+                                     background: rgb(104, 101, 96);
+                                     border-radius: 25px;
+                                     border-color: darkgoldenrod;
+                                     margin-left:15px;
+                                     appearance: pushbutton;
+                                     cursor: pointer;
+                                    font-weight: bold;}
+                                .sixbtn:hover{
+                                        background-color: rgb(83, 78, 78);}
+
+
+
+
+
+            .mulbtn{
+
+                                            
+            height: 50px;
+            width: 50px;
+             background: rgb(241, 155, 5);
+             border-radius: 25px;
+             border-color: darkgoldenrod;
+             margin-left:35px;
+             appearance: pushbutton;
+             cursor: pointer;
+            font-weight: bold;
+        font-size: 20px;}
+.mulbtn:hover{
+                background-color:rgb(226, 150, 17); }
+            
+                .onebtn{
+                    height: 50px;
+                    width: 50px;
+                     background: rgb(104, 101, 96);
+                     border-radius: 25px;
+                     border-color: darkgoldenrod;
+                     margin-left: 10px;
+                     appearance: pushbutton;
+                     cursor: pointer;
+                    font-weight: bold;}
+                .onebtn:hover{
+                        background-color: rgb(83, 78, 78);}
+
+
+
+                        .twobtn{
+                            height: 50px;
+                            width: 50px;
+                             background: rgb(104, 101, 96);
+                             border-radius: 25px;
+                             border-color: darkgoldenrod;
+                             margin-left: 15px;
+                             appearance: pushbutton;
+                             cursor: pointer;
+                            font-weight: bold;}
+                        .twobtn:hover{
+                                background-color: rgb(83, 78, 78);}
+
+
+
+  .threebtn{
+                            height: 50px;
+                            width: 50px;
+                             background: rgb(104, 101, 96);
+                             border-radius: 25px;
+                             border-color: darkgoldenrod;
+                             margin-left: 15px;
+                             appearance: pushbutton;
+                             cursor: pointer;
+                            font-weight: bold;}
+                        .threebtn:hover{
+                                background-color: rgb(83, 78, 78);}
+                                           
+
+
+
+                                .divbtn{
+
+                                            
+                                    height: 50px;
+                                    width: 50px;
+                                     background: rgb(241, 155, 5);
+                                     border-radius: 25px;
+                                     border-color: darkgoldenrod;
+                                     margin-left:35px;
+                                     appearance: pushbutton;
+                                     cursor: pointer;
+                                    font-weight: bold;
+                                font-size: 20px;}
+                                    
+                        .divbtn:hover{
+                                        background-color:rgb(226, 150, 17); }
+
+
+
+
+
+                                        .zerobtn{
+                                            height: 50px;
+                                            width: 120px;
+                                             background: rgb(104, 101, 96);
+                                             border-radius: 22px;
+                                             border-color: darkgoldenrod;
+                                             margin-left: 15px;
+                                             appearance: pushbutton;
+                                             cursor: pointer;
+                                            font-weight: bold;}
+                                        .zerobtn:hover{
+                                                background-color: rgb(83, 78, 78);}
+
+
+
+
+
+                                                .dotbtn{
+                                                    height: 50px;
+                                                    width: 50px;
+                                                     background: rgb(104, 101, 96);
+                                                     border-radius: 25px;
+                                                     border-color: darkgoldenrod;
+                                                     margin-left: 10px;
+                                                     appearance: pushbutton;
+                                                     cursor: pointer;
+                                                    font-weight: bold;}
+                                                .dotbtn:hover{
+                                                        background-color: rgb(83, 78, 78);}
+
+
+
+
+
+
+                                                        .subbtn{
+
+                                            
+                                                            height: 50px;
+                                                            width: 50px;
+                                                             background: rgb(241, 155, 5);
+                                                             border-radius: 25px;
+                                                             border-color: darkgoldenrod;
+                                                             margin-left:35px;
+                                                             appearance: pushbutton;
+                                                             cursor: pointer;
+                                                            font-weight: bold;
+                                                        font-size: 20px;}
+                                                            
+                                                .subbtn:hover{
+                                                                background-color:rgb(226, 150, 17); }
+                                                       
+                                               
+.clearbtn{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(241, 155, 5);
+cursor: pointer;
+
+}
+.clearbtn:hover{
+    background-color: rgb(226, 150, 17);
+}
+
+
+.equalbtn{
+    height: 50px;
+    width: 50px;
+     background: rgb(241, 155, 5);
+     border-radius: 25px;
+     border-color: darkgoldenrod;
+     margin-left:240px;
+     appearance: pushbutton;
+     cursor: hand;
+    font-weight: bold;
+font-size: 20px;
+margin-top: 10px;}
+.equalbtn:hover{
+        background-color:rgb(226, 150, 17); }
+
+
+                            
+  
